@@ -1,3 +1,4 @@
+"use strict";
 function arraySplice(array, item) {
   const requestArray = [];
   for (let i = 0; i < array.length; i++) {
